@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695284734 source:c:\dev\prozd\timeconversion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1695284734 source:c:\dev\prozd\ue05 - timeconversion\main.c
+	<stdio.h>
+	<stdlib.h>
+
